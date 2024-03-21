@@ -1,0 +1,1 @@
+NUnit.Console-3.17.0\bin\net35\nunit3-console.exe all_tests.nunit

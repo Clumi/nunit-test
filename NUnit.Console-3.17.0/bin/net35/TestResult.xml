@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="0" result="Failed" label="Invalid" total="0" passed="0" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.17.0.0" clr-version="4.0.30319.42000" start-time="2024-03-21 11:40:12Z" end-time="2024-03-21 11:40:12Z" duration="0.782476">
+  <command-line><![CDATA["C:\Development\qes\External\NUnit4\NUnit.Console-3.17.0\bin\net35\nunit3-console.exe" C:\Development\qes\QuinLogic\QuinLogic.Base.Tests\bin\Debug\QuinLogic.Base.Tests.exe]]></command-line>
+  <test-suite type="Assembly" id="1-1" name="QuinLogic.Base.Tests.exe" fullname="C:\Development\qes\QuinLogic\QuinLogic.Base.Tests\bin\Debug\QuinLogic.Base.Tests.exe" testcasecount="0" runstate="NotRunnable" result="Failed" label="Invalid">
+    <properties>
+      <property name="_SKIPREASON" value="File not found: C:\Development\qes\QuinLogic\QuinLogic.Base.Tests\bin\Debug\QuinLogic.Base.Tests.exe" />
+    </properties>
+    <reason>
+      <message>File not found: C:\Development\qes\QuinLogic\QuinLogic.Base.Tests\bin\Debug\QuinLogic.Base.Tests.exe</message>
+    </reason>
+  </test-suite>
+</test-run>
